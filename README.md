@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React , Redux**
 
-- 👨‍💻 All of my projects are available at [https://yash-sakalley.netlify.app/](https://yash-sakalley.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://yashsakalley-app.netlify.app/](https://yash-sakalley.netlify.app/)
 
 - 💬 Ask me about **React, JavaScript, Redux, MongoDB, Node.js**
 
