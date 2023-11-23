@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsakalley-1997&label=Profile%20views&color=0e75b6&style=flat" alt="yashsakalley-1997" /> </p>
 
-- 🔭 I’m currently working on [Instacart.com Clone](https://github.com/Maddy-O/Instacart_MVC)
+- 🔭 I’m currently working on [Netflix Clone](https://github.com/yashsakalley-1997/netflix-clone)
 
-- 🌱 I’m currently learning **React , Redux**
+- 🌱 I’m currently learning **creating full stack apps**
 
 - 👨‍💻 All of my projects are available at [https://yashsakalley-app.netlify.app/](https://yash-sakalley.netlify.app/)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sakalley.yash@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13FxTWV8r_wourcG7uXNsqAtXR3TXIMIg/view?usp=sharing](https://drive.google.com/file/d/13FxTWV8r_wourcG7uXNsqAtXR3TXIMIg/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1WvH1Q5qu6t_ZCRke3_lAKBoLNizIJSV2/view?usp=drive_link](https://drive.google.com/file/d/1WvH1Q5qu6t_ZCRke3_lAKBoLNizIJSV2/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
