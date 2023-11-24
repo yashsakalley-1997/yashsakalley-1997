@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **creating full stack apps**
 
-- 👨‍💻 All of my projects are available at [https://yashsakalley-app.netlify.app/](https://yash-sakalley.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://yashsakalley-app.netlify.app/](https://yash-sakalley-app.netlify.app/)
 
 - 💬 Ask me about **React, JavaScript, Redux, MongoDB, Node.js**
 
