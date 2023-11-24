@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Sakalley</h1>
-<h3 align="center">A full stack developer proficient in React and Node.js, having 1.5 years of work experience as a front-end developer with a prime objective is develop applications integrated with AI/ML, eventually helping people and solve problems</h3>
+<h3 align="center">A full stack developer proficient in React and Node.js, having 1.5 years of work experience as a front-end developer with a prime objective to develop applications integrated with AI/ML, eventually helping people and solve problems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsakalley-1997&label=Profile%20views&color=0e75b6&style=flat" alt="yashsakalley-1997" /> </p>
 
