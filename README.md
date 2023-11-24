@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsakalley-1997&label=Profile%20views&color=0e75b6&style=flat" alt="yashsakalley-1997" /> </p>
 
-- 🔭 I’m currently working on [Netflix Clone](https://github.com/yashsakalley-1997/netflix-clone)
+- 🔭 I’m currently working at BetterPlace Safety Solutions.
 
-- 🌱 I’m currently learning **creating full stack apps**
+- 🌱 I’m currently learning **react-native**
 
 - 👨‍💻 All of my projects are available at [https://yashsakalley-app.netlify.app/](https://yashsakalley-app.netlify.app/)
 
