@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sakalley.yash@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WvH1Q5qu6t_ZCRke3_lAKBoLNizIJSV2/view?usp=drive_link](https://drive.google.com/file/d/1WvH1Q5qu6t_ZCRke3_lAKBoLNizIJSV2/view?usp=drive_link)
+- 📄 Know about my experiences [link](https://drive.google.com/file/d/1WvH1Q5qu6t_ZCRke3_lAKBoLNizIJSV2/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
